@@ -38,7 +38,7 @@ The project consists of a ZigBee device which use to monitor home energy consump
  
  <b>For Home Assistant Quirks </b>[More](https://www.home-assistant.io/integrations/zha/)
 
- For ZHA [File]()
+ For ZHA [File](https://github.com/delta010/Zigbee-Energy-Monitor/blob/main/pzem004t.py)
  
 ```zha:
   enable_quirks: true
