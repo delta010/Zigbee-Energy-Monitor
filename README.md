@@ -1,4 +1,4 @@
-<h1>Zigbee Home Enargy Monitor</h1>
+<h1>Zigbee Home Enargy Monitor</h1> 
 
 <h2>SAFETY FIRST!</h2>
 This project requires you to deal with mains voltage, which is extremely dangerous and can cause severe injuries and even death.
@@ -28,7 +28,7 @@ The project consists of a ZigBee device which use to monitor home energy consump
 
 <h2>Software  Used </h2>
 
-- <b>Zigbee Configurable Firmware</b> 
+- <b>[Zigbee Configurable Firmware](https://ptvo.info/zigbee-switch-configurable-firmware-v2-210/)</b>
 
 <h2>Program walk-through:</h2>
 
