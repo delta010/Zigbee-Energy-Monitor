@@ -54,21 +54,28 @@ external_converters:
        
 ```
 
-Custom PCB Gerber [File](https://github.com/delta010/Zigbee-Energy-Monitor/blob/main/zigbeepzem.zip)
+<h2>Custom PCB Gerber</h2>
+
+
+ If you are using my PCB design, for the ac power supply you need to solder the bridge and the PSU pads together and don't use ac and dc inputs at the same time also for dc power input you need to solder the battery jumper togoather 
+  
+   -  Gerber[File](https://github.com/delta010/Zigbee-Energy-Monitor/blob/main/zigbeepzem.zip)
  
- 
+<h2>ScreenShots</h2> 
 
 <p align="center">
  <br/>
 <img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/5a0b0df7-fcdf-4106-926f-9a0a39c8d6a9" />
 <br />
-<br />
+
 
 <img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/def497b7-8cd3-48a2-bcf2-04cbe828027e"/>
 <br />
 <br />
 
+<img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/71855a93-a9ec-45e8-9b36-9bdfa8f40598"/>
 
+<img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/2e4d5bfa-cc3c-47b3-a0ea-4ea200192c8a"/>
 </p>
 
 <!--
