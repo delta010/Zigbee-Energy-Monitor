@@ -45,6 +45,8 @@ The project consists of a ZigBee device which use to monitor home energy consump
   custom_quirks_path: /config/custom_zha_quirks
 ```
  <b>For Zigbee2mqtt Device Handiler </b>[More](https://www.home-assistant.io/integrations/zha/)
+
+ For Z2M [File](https://github.com/delta010/Zigbee-Energy-Monitor/blob/main/PZEMENERGY.js)
  
  ```
 external_converters:
@@ -52,8 +54,7 @@ external_converters:
        
 ```
 
- 
- Run the PTVO Executable and configure the same as the screenshot 
+ <h2>Custom pcb Gerber [file]()</h2>
  
 
 <p align="center">
@@ -61,7 +62,7 @@ external_converters:
 <img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/5a0b0df7-fcdf-4106-926f-9a0a39c8d6a9" />
 <br />
 <br />
-Select the disk:  <br/>
+
 <img src="https://github.com/delta010/Zigbee-Energy-Monitor/assets/29528880/def497b7-8cd3-48a2-bcf2-04cbe828027e"/>
 <br />
 <br />
