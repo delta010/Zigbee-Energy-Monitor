@@ -37,6 +37,8 @@ The project consists of a ZigBee device which use to monitor home energy consump
  This is custom device which work both with ZHA and z2m,Inorder to work with them For ZHA a cuystom quirk shoud load
  
  <b>For Home Assistant Quirks </b>[More](https://www.home-assistant.io/integrations/zha/)
+
+ For ZHA [File]()
  
 ```zha:
   enable_quirks: true
