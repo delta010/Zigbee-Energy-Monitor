@@ -34,7 +34,25 @@ The project consists of a ZigBee device which use to monitor home energy consump
 
  <h2>PTVO firmware Configuration </h2>
 
+ This is custom device which work both with ZHA and z2m,Inorder to work with them For ZHA a cuystom quirk shoud load
+ 
+ <b>For Home Assistant Quirks </b>[More](https://www.home-assistant.io/integrations/zha/)
+ 
+```zha:
+  enable_quirks: true
+  custom_quirks_path: /config/custom_zha_quirks
+```
+ <b>For Zigbee2mqtt Device Handiler </b>[More](https://www.home-assistant.io/integrations/zha/)
+ 
+ ```
+external_converters:
+       - PZEMENERGY.js
+       
+```
+
+ 
  Run the PTVO Executable and configure the same as the screenshot 
+ 
 
 <p align="center">
  <br/>
