@@ -29,8 +29,10 @@ The project consists of a ZigBee device which use to monitor home energy consump
 <h2>Software  Used </h2>
 
 - <b>[Zigbee Configurable Firmware](https://ptvo.info/zigbee-switch-configurable-firmware-v2-210/)</b>
+- <b>[Programing CC2530](https://blog.boris-wach.de/permalink/265)</b>
 
-<h2>Program walk-through:</h2>
+
+ <h2>PTVO firmware Configuration </h2>
 
 <p align="center">
 Launch the utility: <br/>
